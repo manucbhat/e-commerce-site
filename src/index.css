@@ -24,3 +24,9 @@ nav{
   font-size: larger;
   height: 70px;
 }
+
+.filter{
+  margin-top: 10px;
+  margin-right: 20px;
+  width: fit-content;
+}

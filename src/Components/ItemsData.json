@@ -1,5 +1,4 @@
-
-const ItemsData = [
+[
     {
         "key" : 1,
     "name":"Potato",
@@ -8,7 +7,7 @@ const ItemsData = [
     "available":1,
     "vendor":"Himachal Pvt Ltd",
     "category":"Vegtables",
-    "image" : "https://5.imimg.com/data5/SELLER/Default/2022/11/AT/JQ/CW/159824908/organic-fresh-potato-250x250.jpg"
+    "imageURL" : "https://5.imimg.com/data5/SELLER/Default/2022/11/AT/JQ/CW/159824908/organic-fresh-potato-250x250.jpg"
     },
     {
         "key" : 2,
@@ -18,7 +17,7 @@ const ItemsData = [
     "available":1,
     "category":"Fruits",
     "vendor": "Organic farms",
-    "image" : "https://m.media-amazon.com/images/I/413Q+GBBZWL._SX425_.jpg"
+    "imageURL" : "https://m.media-amazon.com/images/I/413Q+GBBZWL._SX425_.jpg"
     },
     {
         "key" : 3,
@@ -28,7 +27,7 @@ const ItemsData = [
     "available":0,
     "category":"Vegetables",
     "vendor":"Mallikarjuna farms",
-    "image" : "https://m.media-amazon.com/images/I/61RClSJWrNL._SL1500_.jpg"
+    "imageURL" : "https://m.media-amazon.com/images/I/61RClSJWrNL._SL1500_.jpg"
     },
     {
         "key" : 4,
@@ -38,8 +37,8 @@ const ItemsData = [
     "available":1,
     "vendor":"Nagpur farms",
     "category":"Fruits",
-    "image" : "https://www.producemarketguide.com/sites/default/files/Commodities.tar/Commodities/oranges_commodity-page.png"
+    "imageURL" : "https://www.producemarketguide.com/sites/default/files/Commodities.tar/Commodities/oranges_commodity-page.png"
     }
-    ];
+    ]
 
-    export default ItemsData;
+    
