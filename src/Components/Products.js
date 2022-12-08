@@ -1,12 +1,17 @@
 import React from "react";
-import ItemsData from "./ItemsData";
+import FilterBox from "./FilterBox";
 
 function Products(){
-    return(
-        <div>
-            
-        </div>
-    );
+  
+        return(
+            <div>
+               <FilterBox />
+                </div>
+        );
+        
+
+
+    
 }
 
 export default Products;
